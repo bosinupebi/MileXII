@@ -1,5 +1,5 @@
 # MileXII
-front end repo for milexii
+front end repo and solidity contracts for milexii
 
 The application is mostly a node.js file with some react.js in there
 
