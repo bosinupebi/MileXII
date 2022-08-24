@@ -1,5 +1,5 @@
 * {
-  font-family: FontHeading;
+  font-family: FontTextRegular;
 }
 
 h1,
@@ -8,5 +8,9 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: FontHeading;
+}
+
+.bold-text {
   font-family: FontHeading;
 }
